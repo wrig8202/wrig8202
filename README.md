@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://oliviawright.me">Portfolio &amp; Case Studies</a> ·
-  <a href="https://oliviawright.me/portfolio/">Manufacturing Dnalytics</a> ·
+  <a href="https://oliviawright.me/portfolio/">Manufacturing Analytics</a> ·
   <a href="https://github.com/wrig8202?tab=repositories">GitHub Projects</a>
 </p>
 
