@@ -1,101 +1,175 @@
-<h1 align="center">Olivia N. Wright</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Industrial Engineering · Operations Analytics · Digital Products</strong><br>
-  I turn messy operational problems into practical, people-centered systems.
-</p>
+# Olivia N. Wright
 
-<p align="center">
-  <a href="https://oliviawright.me">Portfolio &amp; Case Studies</a> ·
-  <a href="https://oliviawright.me/portfolio/">Manufacturing Analytics</a> ·
-  <a href="https://github.com/wrig8202?tab=repositories">GitHub Projects</a>
-</p>
+### Engineering better decisions.
 
----
+**Industrial Engineering · Operations Analytics · Digital Transformation**
 
-## What I do
+I turn complex operational challenges into practical, people-centered systems—from manufacturing decision support to nonprofit platforms and entrepreneurial tools.
 
-I'm an industrial engineer and **Supply Chain Coordinator at Michelin North America**, pursuing an **MS in Business Analytics at Cornell University (Class of 2027)**. I hold bachelor's degrees in both Industrial Engineering and Business Management from Kettering University.
+[**Professional Portfolio**](https://oliviawright.me) · [**Case Studies**](https://oliviawright.me/portfolio/) · [**LinkedIn**](https://www.linkedin.com/in/viawright/)
 
-My work sits at the intersection of **manufacturing operations, supply chain decision support, applied analytics, and product design**. I work backward from the operational decision: What needs to happen, what information is missing, and how can a reliable tool make the next action easier?
-
-Projects here range from offline inventory tools and small-business applications to AI evaluation experiments and full-stack platforms. They reflect my work in requirements design, process engineering, business logic, user experience, validation, and delivery—including AI-assisted implementation where appropriate.
-
-## Featured Projects
-
-### 01 · Before the First Order — Inventory Count & Supply Risk
-
-**Problem:** How do you make dependable inventory decisions when system transactions aren't consistently captured?
-
-Designed an offline-first, configuration-driven counting workflow that guides a user through physical verification, unit conversion, reconciliation, days-of-stock calculations, inbound receipt handling, and CSV handoff. The public demo uses a fictional pizzeria to make a manufacturing problem accessible without exposing company information.
-
-**Explore:** [Live Case Study](https://wrig8202.github.io/inventory-count-tool/) · [Interactive Demo](https://wrig8202.github.io/inventory-count-tool/demo.html) · [Code and Design Decisions](https://github.com/wrig8202/inventory-count-tool)
-
-`Operations Engineering` · `HTML/CSS/JavaScript` · `Offline-First` · `Inventory Control` · `UX Design` · `Browser Testing`
-
-### 02 · Robotics Grant Application & Review Platform
-
-**Problem:** How can a volunteer-led nonprofit operate a rigorous, fair, auditable grant process without a patchwork of forms, emails, spreadsheets, and manual reviewer coordination?
-
-Designed and developed a full-stack platform supporting applicant drafts and submission, role-based review, scoring workflows, committee calibration, finalist administration, and controlled exports. Emphasis areas include access controls, structured evaluation, auditability, responsive UX, and guarded release processes.
-
-**Availability:** Production project; source repository is private. This public description intentionally excludes applicant information, internal workflows, credentials, and protected system details.
-
-`React` · `TypeScript` · `Supabase/PostgreSQL` · `Row-Level Security` · `Vercel` · `GitHub Actions` · `Product Design`
-
-### 03 · Whiskful Thinking — Tools for Small Businesses
-
-**Problem:** How can an independent baker price products confidently and invite customer input without costly software or complicated setup?
-
-Built browser-based tools including **The Baker's Pricing Lab**, for recipe costing and pricing, and **The Flavor Lab**, an interactive, rule-based product-ideation experience. Both prioritize approachable interfaces and lightweight deployment. Pricing data stays in the user's own browser.
-
-**Explore:** [Repository](https://github.com/wrig8202/whiskful-thinking-bakery-tools) · [Flavor Lab Documentation](https://github.com/wrig8202/whiskful-thinking-bakery-tools/blob/claude/bakers-pricing-lab-oq8ihc/flavor-lab/README.md)
-
-`HTML/CSS/JavaScript` · `Business Logic` · `Local Storage` · `Product UX` · `Small-Business Economics`
-
-### 04 · AI Capacity Exception Analysis
-
-**Question:** Can an AI agent reliably transform production-plan variances into decision-ready exception reports while following explicit business rules?
-
-Created a synthetic capacity-planning dataset, defined thresholds and escalation logic, documented a hand-produced reference report, and assessed AI-generated analysis against predetermined requirements. The exercise emphasizes **correct calculations, missing-data handling, defensible hypotheses, and human evaluation** rather than treating fluent AI output as proof of accuracy.
-
-**Explore:** [Experiment Files and Results](https://github.com/wrig8202/automate-task-ai-capacity-exception)
-
-`Applied AI` · `Evaluation Rubrics` · `Business Rules` · `Operations aAnalytics` · `Data Quality`
-
-## Manufacturing Analytics & Decision Support
-
-My professional portfolio also includes projects that cannot be published as open-source software. I share **de-identified case studies and methods**, not proprietary models or operational data:
-
-- **[Tactical Capacity Planning](https://oliviawright.me/portfolio/):** translating longer-range demand into actionable production plans, with attention to plant constraints and planning decisions.
-- **[Automated Multi-Plant Demand Loading](https://oliviawright.me/2025/08/09/automated-multi-plant-demand-loading/):** constraint-based, Solver-assisted balancing of production demand across sites.
-- **[Rolling Demand Signal Variance Tracking](https://oliviawright.me/portfolio/):** surfacing forecast volatility and its implications for operational decisions.
-- **Inventory Health & Scan Reliability (internal work):** making aging stock, staging-area limits, and exception follow-up visible to operations teams. Not available as a public code repository or dataset.
-
-[Explore additional engineering and analytics case studies →](https://oliviawright.me/portfolio/)
-
-## Methods & tools
-
-| Area | Tools and practices |
-| --- | --- |
-| **Operational Improvement** | Lean thinking, DMAIC, process mapping, requirements definition, exception management |
-| **Analytics & Planning** | Excel, VBA, Power Query, Power BI/DAX, SQL, Solver, scenario modeling |
-| **Applications & UX** | HTML, CSS, JavaScript, React, TypeScript, responsive interfaces, browser-based testing |
-| **Data & Delivery** | PostgreSQL, Supabase, Vercel, GitHub Actions, access-control and release workflows |
-| **Applied AI** | Human-in-the-loop review, rubric-based evaluation, business-rule validation, data-quality controls |
-
-## Engineering Philosophy
-
-**Understand the work. Design around the people doing it. Build for reliability. Measure what actually changed.**
-
-A useful solution should make a decision easier to understand, an exception easier to resolve, or a process easier to sustain. I care as much about adoption and usability as I do about the underlying model or architecture.
-
-## Beyond the Projects
-
-I'm involved in STEM outreach, engineering mentorship, and initiatives that expand student access to robotics and technical opportunities. I also serve on the **Kettering/GMI Alumni Association Board of Directors** and contribute to the **Society of Women Engineers** community.
+</div>
 
 ---
 
-**Let's Connect:** [Personal Website](https://oliviawright.me) · [Full Portfolio](https://oliviawright.me/portfolio/) · [LinkedIn](https://www.linkedin.com/in/viawright/)
+## Hello, I'm Olivia
 
-<sub>Public demos and datasets are synthetic or de-identified where necessary. Descriptions of internal or private work intentionally omit protected company, applicant, and system information. Some projects include AI-assisted development; the engineering decisions, requirements, testing, and accountability remain human-led.</sub>
+I'm an industrial engineer and **Supply Chain Coordinator at Michelin North America**, currently pursuing an **M.S. in Business Analytics at Cornell University (Class of 2027)**. I earned bachelor's degrees in Industrial Engineering and Business Management from Kettering University.
+
+I enjoy the work that happens between identifying a problem and making a solution sustainable: understanding the operation, defining the right decision, translating business requirements into usable tools, and improving those tools as needs evolve. My projects span manufacturing, community organizations, graduate research and coursework, and a small business I started myself.
+
+> **Understand the work. Design around the people doing it. Build for reliability. Measure what actually changed.**
+
+### Explore my work
+
+| Focus | What you'll find |
+| :--- | :--- |
+| [**01 · Manufacturing & Operations Engineering**](#01--manufacturing--operations-engineering) | Inventory reliability, supply risk, capacity planning, and decision support |
+| [**02 · Community Impact & Nonprofit Technology**](#02--community-impact--nonprofit-technology) | Full-stack grant administration and operational systems for volunteer-led programs |
+| [**03 · Graduate Studies & Applied Analytics**](#03--graduate-studies--applied-analytics) | Cornell MSBA work, applied AI evaluation, and evolving analytical projects |
+| [**04 · Entrepreneurship & Small Business**](#04--entrepreneurship--small-business) | Whiskful Thinking and the digital tools built around a home bakery |
+
+---
+
+## 01 · Manufacturing & Operations Engineering
+
+**Operational intelligence starts with understanding what happens on the floor.**
+
+My professional work focuses on translating real operational constraints, incomplete information, and shifting priorities into decisions that teams can act on. My interests include inventory accuracy, materials flow, capacity planning, exception management, and sustainable process improvement.
+
+### Featured project · Before the First Order
+
+**Inventory Counting & Supply Risk | [Case Study](https://wrig8202.github.io/inventory-count-tool/) · [Try the Demo](https://wrig8202.github.io/inventory-count-tool/demo.html) · [Source & Design Decisions](https://github.com/wrig8202/inventory-count-tool)**
+
+*The challenge:* How do you make dependable inventory decisions when system transactions are not consistently captured?
+
+I designed an **offline-first, configuration-driven inventory workflow** covering physical verification, unit conversions, reconciliation, days-of-stock calculations, incoming receipts, and CSV handoff. The public demonstration uses a fictional pizzeria to illustrate a manufacturing-inspired problem without revealing proprietary operations or data.
+
+`Operations Engineering` `Inventory Control` `Offline-First` `JavaScript` `UX Design`
+
+### Selected manufacturing analytics case studies
+
+| Work | Engineering and business question |
+| :--- | :--- |
+| [**Tactical Capacity Planning**](https://oliviawright.me/portfolio/) | How can longer-range demand become executable production plans within actual capacity constraints? |
+| [**Automated Multi-Plant Demand Loading**](https://oliviawright.me/2025/08/09/automated-multi-plant-demand-loading/) | How can constraint-based optimization and Solver-assisted analysis support allocation across sites? |
+| [**Rolling Demand Signal Variance Tracking**](https://oliviawright.me/portfolio/) | How can planning teams identify forecast volatility early enough to act? |
+| **Inventory Health & Scan Reliability** · Internal | How can aging inventory, staging limits, and recurring transaction exceptions become visible and actionable? |
+
+Because some projects originate in professional manufacturing environments, I publish **de-identified methods and case studies—not proprietary models, system details, or operational datasets**.
+
+[**Explore more manufacturing and analytics work →**](https://oliviawright.me/portfolio/)
+
+---
+
+## 02 · Community Impact & Nonprofit Technology
+
+**Building better systems for organizations doing meaningful work.**
+
+Technology can make volunteer-led programs more accessible, consistent, and sustainable. I bring the same requirements-driven approach used in industrial operations to nonprofit processes: clarify the workflow, reduce administrative friction, and design for accountability.
+
+### Featured project · Robotics Grant Application & Review Platform
+
+**Full-Stack Product · Grant Operations · Structured Evaluation**
+
+*The challenge:* How can a volunteer-led nonprofit manage a rigorous and auditable grant process without relying on scattered forms, spreadsheets, emails, and manual reviewer coordination?
+
+I designed and developed a platform supporting applicant drafts and submission, role-based evaluation, structured scoring, committee calibration, finalist administration, and controlled data exports. The work combines product requirements, database and authorization design, reviewer experience, validation, and release controls.
+
+`React` `TypeScript` `Supabase / PostgreSQL` `Row-Level Security` `Vercel` `Product Design`
+
+**Source availability:** This is a production nonprofit system with a private repository. Public descriptions intentionally exclude applicant information, credentials, sensitive workflows, and protected technical details.
+
+### Beyond the platform
+
+I serve on the **Kettering/GMI Alumni Association Board of Directors** and am involved in student recruitment, STEM outreach, engineering mentorship, and expanding access to robotics opportunities. I also contribute to the **Society of Women Engineers** community.
+
+My goal is not simply to digitize an existing process. It's to help an organization operate more effectively and give its people more time to focus on the mission.
+
+---
+
+## 03 · Graduate Studies & Applied Analytics
+
+**Cornell University · M.S. in Business Analytics · Class of 2027**
+
+Graduate study gives me an opportunity to test methods more deliberately, connect quantitative analysis to business decisions, and examine how emerging technologies perform against real operational requirements. This section will grow as I develop additional portfolio-ready work through the MSBA program.
+
+### Featured project · AI Capacity Exception Analysis
+
+**[Explore Experiment Files & Results](https://github.com/wrig8202/automate-task-ai-capacity-exception)**
+
+*The question:* Can an AI agent transform production-plan variances into accurate, decision-ready exception reports while following explicit business rules?
+
+I created a synthetic capacity-planning dataset, established thresholds and escalation criteria, prepared a human reference analysis, and evaluated AI-generated reports against a defined rubric. The emphasis is on **calculation accuracy, missing-data handling, defensible interpretation, and human validation**—not the appearance of a polished AI response.
+
+`Applied AI` `Evaluation Design` `Business Rules` `Operations Analytics` `Data Quality`
+
+### Areas of exploration
+
+| Academic focus | Applications I'm exploring |
+| :--- | :--- |
+| **Data Architecture & SQL** | Reliable data structures, queries, and analysis-ready datasets |
+| **Operations Analytics** | Optimization, capacity, inventory, and decision models |
+| **Statistics & Business Analysis** | Uncertainty, inference, measurement, and decision quality |
+| **Finance & Economics** | Scenario analysis and financially informed business decisions |
+| **Marketing & Customer Insights** | Connecting customer behavior and analytical evidence to product choices |
+| **Applied AI** | Human-in-the-loop workflows, reproducible evaluation, and safeguards |
+
+*These are areas of study and exploration, not a claim that each is already a completed public project. New projects will be linked as they are ready to share.*
+
+---
+
+## 04 · Entrepreneurship & Small Business
+
+### Whiskful Thinking · Small Bakes, Big Flavor
+
+**[Visit the Bakery](https://whiskfulthinkingsc.com) · [Explore the Tools Repository](https://github.com/wrig8202/whiskful-thinking-bakery-tools)**
+
+I started **Whiskful Thinking as a home bakery**, bringing together my love of baking, creativity, and entrepreneurship. Running a small business also gave me a new perspective on the operational challenges that independent makers face: understanding true costs, choosing sustainable prices, developing products, and creating customer experiences without a large technology budget.
+
+Instead of treating those challenges as separate from engineering, I started building lightweight digital tools to address them.
+
+| Digital product | What it does |
+| :--- | :--- |
+| **The Baker's Pricing Lab** | Helps turn ingredient and recipe costs into more informed pricing decisions, using browser-based calculations |
+| **The Flavor Lab** | Supports interactive, rule-based flavor exploration and product ideation |
+
+These projects bring together **business logic, product design, customer experience, and practical small-business economics**. Pricing information remains in the user's browser rather than being sent to an application database.
+
+`Entrepreneurship` `Cost Modeling` `HTML / CSS / JavaScript` `Local Storage` `Product UX`
+
+**[Discover Whiskful Thinking →](https://whiskfulthinkingsc.com)**
+
+---
+
+## How I Work
+
+I approach projects as both an engineer and a business problem-solver. The output might be a dashboard, a workflow, an analytical model, or a full-stack product—but the objective is always a better decision or a more dependable process.
+
+**Discover the problem → Define the decision → Design for the user → Build and validate → Improve through feedback**
+
+| Capability | Methods and tools |
+| :--- | :--- |
+| **Process & Operations** | Lean, DMAIC, process mapping, requirements definition, exception management |
+| **Analytics & Optimization** | Excel, VBA, Power Query, Power BI / DAX, SQL, Solver, scenario modeling |
+| **Products & Interfaces** | HTML, CSS, JavaScript, React, TypeScript, responsive UI, browser testing |
+| **Data & Delivery** | PostgreSQL, Supabase, Vercel, GitHub Actions, authorization and release workflows |
+| **AI & Evaluation** | Human-in-the-loop review, rubric-based assessment, data-quality and business-rule validation |
+
+I use AI-assisted implementation where it is useful, while retaining responsibility for requirements, engineering decisions, testing, and the quality of the delivered outcome.
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+I'm interested in **digital transformation, continuous improvement, analytics, product development, and opportunities to help organizations solve difficult operational problems**.
+
+[**Portfolio**](https://oliviawright.me) · [**Case Studies**](https://oliviawright.me/portfolio/) · [**LinkedIn**](https://www.linkedin.com/in/viawright/) · [**GitHub Repositories**](https://github.com/wrig8202?tab=repositories)
+
+<sub>Public examples use synthetic or de-identified information where appropriate. Internal and nonprofit systems are described without exposing confidential data or protected implementation details.</sub>
+
+</div>
